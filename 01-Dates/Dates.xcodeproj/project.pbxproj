@@ -11,6 +11,8 @@
 		8D8D5D7C2698BA3D0075CB16 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8D5D7B2698BA3D0075CB16 /* ContentView.swift */; };
 		8D8D5D7E2698BA3E0075CB16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D8D5D7D2698BA3E0075CB16 /* Assets.xcassets */; };
 		8D8D5D812698BA3E0075CB16 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D8D5D802698BA3E0075CB16 /* Preview Assets.xcassets */; };
+		AB207FEC2D5CC89C00A2CD59 /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB207FEB2D5CC89C00A2CD59 /* Webservice.swift */; };
+		AB207FEE2D5CC90600A2CD59 /* CurrentDateListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB207FED2D5CC90600A2CD59 /* CurrentDateListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		8D8D5D7B2698BA3D0075CB16 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8D8D5D7D2698BA3E0075CB16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D8D5D802698BA3E0075CB16 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AB207FEB2D5CC89C00A2CD59 /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
+		AB207FED2D5CC90600A2CD59 /* CurrentDateListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentDateListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				8D8D5D792698BA3D0075CB16 /* DatesApp.swift */,
 				8D8D5D7B2698BA3D0075CB16 /* ContentView.swift */,
+				AB207FEB2D5CC89C00A2CD59 /* Webservice.swift */,
+				AB207FED2D5CC90600A2CD59 /* CurrentDateListViewModel.swift */,
 				8D8D5D7D2698BA3E0075CB16 /* Assets.xcassets */,
 				8D8D5D7F2698BA3E0075CB16 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				8D8D5D7C2698BA3D0075CB16 /* ContentView.swift in Sources */,
 				8D8D5D7A2698BA3D0075CB16 /* DatesApp.swift in Sources */,
+				AB207FEE2D5CC90600A2CD59 /* CurrentDateListViewModel.swift in Sources */,
+				AB207FEC2D5CC89C00A2CD59 /* Webservice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
